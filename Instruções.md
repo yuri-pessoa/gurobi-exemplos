@@ -1,6 +1,10 @@
 # gurobi-exemplos
-# exemplos de problemas de otimização com o solver gurobi <br>
-Problemas extraídos de referências com objetivo didático <br>
-Algumas recomendações de fontes secundárias na linguagem Python:
+Exemplos de problemas de otimização utizando a linguagem Python e o Gurobi <br>
+Os problemas apresentados neste repositório possuem objetivo estritamente didático <br>
+Algumas recomendações de referência para aprendizado na linguagem Python:
 - MOOC OPENSAP: https://open.sap.com/courses/python1 <br>
-- PLAYLIST YOUTUBE PROF. RAFAEL LIMA (UTFPR): https://youtube.com/playlist?list=PL9H2pvV0741ZxpxH36aCClPUZ6YHL9fYn
+Para aprender mais sobre o Gurobi: <br>
+- PLAYLIST YOUTUBE PROF. RAFAEL LIMA (UTFPR): https://youtube.com/playlist?list=PL9H2pvV0741ZxpxH36aCClPUZ6YHL9fYn <br>
+
+Sobre o autor deste repositório:<br>
+Yuri é aluno no programa de pós graduação em engenharia de produção na Universidade Federal de Goiás, onde utilizada a linguagem Python e o Gurobi para solucionar problemas de otimização.
